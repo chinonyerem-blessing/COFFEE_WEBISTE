@@ -1,0 +1,364 @@
+.container2{
+    display: flex;
+    gap:    130px;
+}
+.den{
+    text-decoration: none;
+    font-size: 15px;
+}
+.a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.best{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.pp{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+.cof{
+    font-size: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+    
+}
+.ll{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+.ff{
+    text-decoration: none;
+    width: 110px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: rgb(253, 202, 106);
+    border: none;
+}
+.oo{
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+.container1{
+    background-image: url("coffee9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jj{
+    display: inline;
+}
+.ww{
+    margin-left: 60px;
+}
+
+.aw{
+    background-color: rgb(253, 202, 106);
+    width: 110px;
+    border-radius: 15px;
+    font-size: 15px;
+    text-decoration: none;
+
+}
+.nn{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.dis{
+    font-weight: bold;
+    color: rgb(77, 50, 2);
+    font-size: 35px;
+
+}
+.lo{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+
+}
+.on{
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: rgb(253, 202, 106);
+    border: none;
+    
+}
+.bean{
+    display: flex;
+    gap: 120px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.fn{
+    width: 500px;
+    height: 320px;
+    margin-top: 20px;
+    
+}
+.shop{
+    word-spacing: 5px;
+}
+.new{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 40px;
+    color: rgb(77, 50, 2);
+
+}
+.all{
+    text-align: center;
+}
+.cap{
+    margin-left: 50px;
+    color: rgb(77, 50, 2);
+    font-weight: bold;
+}
+.fo{
+    margin-left: 20px;
+}
+.pro{
+    margin-left: 72px;
+    font-weight: bold;
+}
+.bb{
+    
+    width: 200px;
+    height: 100px;
+    
+}
+.milk{
+    background-color: rgb(250, 229, 190);
+    width: 200px;
+    box-shadow: 0px 2px 9px #ccc ;
+    
+    
+}
+.contain{
+    display: flex;
+    gap: 90px;
+    margin-left: 90px;
+    margin-top: 40px;
+    
+}
+.ooo{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.bu{
+    width: 110px;
+    height: 40px;
+    background-color: rgb(253, 202, 106);
+    border: none;
+    border-radius: 30px;
+    margin-left: 40px;
+
+    
+}
+.kk{
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+.that{
+    width: 200px;
+    height: 150px;
+    background-color:  rgb(250, 229, 190); 
+    text-align: center;
+    border-radius: 19px;
+    box-shadow: 0px 2px 9px #ccc;
+}
+.ny{
+    display: flex;
+    gap: 90px;
+    margin-left: 90px;
+    margin-top: 30px;
+
+}
+.ne{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(77, 50, 2);
+    margin-top: 0px;
+}
+.jo{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.un{
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: rgb(253, 202, 106);
+    border: none;
+    margin-left: 610px;
+    margin-top: 0px;
+}
+.hav{
+    font-size: 40px;
+    margin-top: 90px;
+    color: white;
+}
+.om{
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: rgb(253, 202, 106);
+    border: none;
+    margin-top: 20px;
+}
+.ro{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.to{
+    background-image: url("coffee12.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    margin-top: 50px;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+.nk{
+    font-size: 20px;
+    color: white;
+}
+.Ik{
+   width: 60px;
+   height: 40px;
+   background-color: rgb(253, 202, 106);
+   text-align: center;
+   font-size: 15px;
+   font-weight: bold;
+   padding-top: 1px;
+   padding-bottom: 0px;
+   border-radius: 10px;
+   box-shadow: 0px 2px 9px #ccc;
+   margin-top: 200px;
+   
+}
+.p{
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 40px;
+    margin-left: 20px;
+}
+.nm{
+    width: 800px;
+    height: 500px;
+    background-color: rgb(250, 229, 190);
+    border-radius: 25px;
+    box-shadow: 0px 2px 9px #ccc;;
+}
+.bn{
+    text-align: center;
+    word-spacing: 5px;
+}
+.mb{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.end{
+    text-align: center;
+    
+}
+.mm{
+    width: 60px;
+   height: 40px;
+   background-color: rgb(253, 202, 106);
+   text-align: center;
+   font-size: 15px;
+   font-weight: bold;
+   padding-top: 1px;
+   padding-bottom: 0px;
+   border-radius: 10px;
+   box-shadow: 0px 2px 9px #ccc;
+   margin-top: 200px;
+   
+   
+}
+.wwn{
+    display: flex;
+    gap: 0px;
+    margin-left: 200px;
+    margin-top: 18px;
+    
+}
+.nnh{
+    margin-left: 350px;
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 2px 9px #ccc;
+    
+}
+.the{
+    background-image: url("coffee12.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.email{
+    width: 350px;
+    height: 34px;
+    border: none;
+    font-weight: bold;
+    color: black;
+}
+.ton{
+    height: 35px;
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+.km{
+    background-image: url("coffee17.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    gap: 130px;
+    padding-left: 120px;
+    padding-top: 90px;
+
+}
+.ok{
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.mp{
+    font-size: 15px;
+    color: white;
+
+}
+.butu{
+    display: flex;
+    margin-left: 480px;
+    margin-top: 30px;
+}
+.ni{
+    color: white;
+    margin-left: 40px;
+}
+.the{
+    text-align: center;
+    padding-top: 80px;
+    margin-top: 140px;
+}
