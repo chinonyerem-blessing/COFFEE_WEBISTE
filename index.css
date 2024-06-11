@@ -140,16 +140,22 @@
     background-color: rgb(250, 229, 190);
     width: 200px;
     box-shadow: 0px 2px 9px #ccc ;
-    
+    transition:.3s all ease;
     
 }
+.milk:hover{
+    transform:scale(1.1);
+}
+
 .contain{
     display: flex;
     gap: 90px;
     margin-left: 90px;
     margin-top: 40px;
+   
     
 }
+
 .ooo{
     text-decoration: none;
     color: black;
@@ -178,6 +184,10 @@
     text-align: center;
     border-radius: 19px;
     box-shadow: 0px 2px 9px #ccc;
+    transition:.3s all ease;
+}
+.that:hover{
+    transform:scale(1.1);
 }
 .ny{
     display: flex;
@@ -333,6 +343,7 @@
     height: 300px;
     display: flex;
     gap: 130px;
+
     padding-left: 120px;
     padding-top: 90px;
 
@@ -361,4 +372,265 @@
     text-align: center;
     padding-top: 80px;
     margin-top: 140px;
+}
+@media (max-width : 600px){
+    .den{
+        font-size: 8px;
+        padding-top: 8px;
+    }
+    .container2{
+        display: flex;
+        gap: 12px;
+    }
+    .best{
+        font-size: 10px;
+    }
+    .aw{
+        margin-top: 6px;
+        width: 50px;
+        height: 20px;
+        margin-left: 5px;
+        
+    }
+    .nn{
+        font-size: 8px;
+        text-align: center;
+        margin-bottom: 10px;
+        margin-top: auto;
+        margin-top: 2px;
+        
+    }
+    .pp{
+        
+        padding-top: 8px;
+        font-size: 7px;
+        padding-top: auto;
+        
+    }
+    .cof{
+        font-size: 22px;
+        color: rgb(27, 27, 27);
+    }
+    .ww{
+        padding-left: auto;
+        padding-left: 5px;
+
+    }
+    .ll{
+        font-size: 7px;
+    }
+    .ff{
+        width: 50px;
+        height: 15px;
+    }
+    .oo{
+        font-size: 7px;
+        text-align: center;
+    }
+    .bean{
+        display: block;
+        margin-left: auto;
+    }
+    .dis{
+        font-size: 12px;
+        text-align: center;
+        
+    }
+    .shop{
+        font-size: 7px;
+        text-align: center;
+    }
+    .on{
+        width: 70px;
+        height: 20px;
+        margin-left: 140px;
+    }
+    .lo{
+        font-size: 9px;
+    }
+    .fn{
+        width: 130px;
+        height: 90px;
+        margin-left: 60px;
+
+
+    }
+    .container1{
+        width: 340px;
+    }
+    .new{
+        font-size: 12px;
+        text-align: center;
+    }
+    .all{
+        font-size: 9px;
+        text-align: center;
+    }
+    .milk{
+        width: 140px;
+        height: 200px;
+    }
+    .milk img{
+        width: 140px;
+        height: 100px;
+    }
+    .cap{
+        font-size: 10px;
+    
+    }
+    .fo{
+        font-size: 8px;
+        margin-left: 30px;
+    }
+    .pro{
+        font-size: 6px;
+    
+    }
+    .that{
+        width: 190px;
+        height: 100px;
+         
+    }
+    .kk{
+        font-size: 11px;
+        padding: 3px;
+    }
+    .nb{
+        font-size: 10px;
+        padding: 3px;
+    }
+    .ne{
+       font-size: 10px;
+       text-align: center;
+    }
+    .all{
+       font-size: 8px;
+       text-align: center;
+    }
+    .un{
+        width: 70px;
+        height: 20px; 
+        margin-left: auto;
+        margin-left: 140px;
+    }
+    .jo{
+       font-size: 7px;
+    }
+    .p{
+        width: 20px;
+        height: 10px;
+        
+    }
+    .bn{
+        font-size: 8px;
+        
+    }
+    .nm{
+        width: 260px;
+        height: 340px;
+        padding-top: auto;
+        
+    }
+    .mb{
+        font-size: 10px;
+        text-align: center;
+    }
+    .end{
+        font-size: 9px;
+        text-align: center;
+    }
+    .wwn{
+        margin-left: auto;
+    }
+    .Ik{
+        width: 30px;
+        height: 20px;
+        font-size: 7px;
+    }
+    .mm{
+        width: 30px;
+        height: 20px;
+        font-size: 7px;
+    }
+    .nnh{
+        width: 90px;
+        height: 30px;
+        margin-left: auto;
+        margin-left: 70px;
+    }
+    .hav{
+        font-size: 14px;
+        padding-top: auto;
+    }
+    .nk{
+       font-size: 10px;
+    }
+    .to{
+        width: 200px;
+        height: 250px;
+        padding-top: auto;
+        border-radius: 10px;
+        margin-left: 16px;
+    }
+    .ny{
+        display: block;
+        margin-left: auto;
+        margin-left: 70px;
+    }
+    .om{
+        width: 90px;
+        height: 20px;
+    }
+    .or{
+       font-size: 7px; 
+}
+.hav{
+    font-size: 14px;
+}
+.ni{
+    font-size: 10px;
+}
+.butu{
+    margin-left: auto;
+    margin-left: 40px;
+}
+.email{
+    width: 130px;
+    height: 20px;
+}
+.ton{
+    height: 20px;
+}
+.the{
+        width: 300px;
+        height: 250px;
+        padding-top: auto;
+        border-radius: 10px;
+        margin-left: 9px;
+}
+.km{
+       display: flex;
+       gap: 5px;
+         margin-left: auto;
+        width: 290px;
+        height: 250px;
+        padding-top: auto;
+        margin-left: 1px;
+        padding-left: auto;
+        padding-left: 20px;
+        padding-right: 10px;
+        margin-top: 40px;
+
+
+}
+.ok{
+    font-size: 10px;
+}
+.mp{
+    font-size: 7px;
+}
+.bbm{
+    padding-left: auto;
+}
+
 }
